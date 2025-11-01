@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812244630737",
+    "project_id": "chatz-ee18d",
+    "storage_bucket": "chatz-ee18d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812244630737:android:a99b17fa28a0126297d9f0",
+        "android_client_info": {
+          "package_name": "com.johns.chatz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQs57VFHzhUns3rqQsQnGBylD6gTFj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
